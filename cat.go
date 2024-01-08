@@ -1,9 +1,9 @@
 package Section91
 
-func cat() string {
+func Cat() string {
 	return "meow meow"
 }
 
-func meow() string {
+func Meow() string {
 	return "meow meow meow"
 }
